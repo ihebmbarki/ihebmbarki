@@ -35,4 +35,5 @@ Ambitious Junior IOS Developer, holding a degree in computer engineering and mob
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidkiamri&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/ihebmbarki)
 
-Feel free to explore my repositories and reach out.
+## Feel free to explore my repositories and reach out ✌️
+

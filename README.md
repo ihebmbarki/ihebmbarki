@@ -12,7 +12,6 @@ Ambitious Junior IOS Developer, holding a degree in computer engineering and mob
 - [![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)](https://example.com)
 - [![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)](https://developer.apple.com/ios/)
 - [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com/)
-- [![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)](https://example.com)
 
 ## 🚀 My latest Projects
 

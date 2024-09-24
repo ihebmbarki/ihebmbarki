@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-## Computer Science Engineer | Junior iOS Developer
+## Computer Science Engineer | iOS Developer
 
 Ambitious Junior IOS Developer, holding a degree in computer engineering and mobile systems from the Private School of Engineering and Technology - Esprit. With strong technical skills and exceptional communication, determined to enhance my knowledge in the field of mobile development.
 - 📫 How to reach me: [iheb.mbarki@esprit.tn](mailto:iheb.mbarki@esprit.tn)

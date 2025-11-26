@@ -1,38 +1,51 @@
 # Hello, I'm Iheb Mbarki 👋
 
-Welcome to my GitHub profile!
+**Mobile Developer | iOS Engineer** from Tunisia.  
+I build **high-performance, user-centered iOS applications**, from **UI/UX design** to **backend integration**.  
 
-## Computer Science Engineer | iOS Developer
+- 📫 Contact: [iheb.mbarki@esprit.tn](mailto:iheb.mbarki@esprit.tn)  
 
-Ambitious Junior IOS Developer, holding a degree in computer engineering and mobile systems from the Private School of Engineering and Technology - Esprit. With strong technical skills and exceptional communication, determined to enhance my knowledge in the field of mobile development.
-- 📫 How to reach me: [iheb.mbarki@esprit.tn](mailto:iheb.mbarki@esprit.tn)
+---
 
-## 🔧 Technologies & Tools
-- [![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)](https://example.com)
-- [![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)](https://example.com)
-- [![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)](https://developer.apple.com/ios/)
-- [![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com/)
+## 🔧 Tech Stack
 
-## 🚀 My latest Projects
+[![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)](https://developer.apple.com/swift/) 
+[![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=swift)](https://developer.apple.com/xcode/swiftui/) 
+[![UIKit](https://img.shields.io/badge/-UIKit-333333?style=flat&logo=apple)](https://developer.apple.com/documentation/uikit) 
+[![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)](https://developer.apple.com/ios/) 
+[![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode)](https://developer.apple.com/xcode/) 
+[![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)](https://firebase.google.com/) 
+[![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)](https://nodejs.org/) 
+[![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)](https://angular.io/) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
-### [Netethic-IOS]([https://github.com/ihebmbarki/Netethic])
+---
 
-- Developed an innovative IOS application (netethic) dedicated to real-time analysis and detection of cyberbullying on social networks.
-- Provided a synthetic view of key data, allowing parents to monitor their children’s be- havior on different online platforms. (Information on current harassment, online danger level, number of toxic individuals, detailed statistical reports).
-* Swift - MVVM architecture
+## 🚀 Featured Projects
 
-### [Epark-IOS]([https://github.com/ihebmbarki/Epark])
+### [Netethic-iOS](https://github.com/ihebmbarki/Netethic)
+- iOS app for **real-time monitoring of children’s digital activity** to prevent cyberbullying.  
+- Built dashboards, smart alerts, integrated multi-server REST APIs using MVVM.  
 
-- Developed an IOS mobile application (Epark) for managing parking spaces.
-  - Located parking spaces using Google Maps.
+### [Epark-iOS](https://github.com/ihebmbarki/Epark)
+- Manage parking spaces with **location tracking via Google Maps**.  
+- Built with Swift, UIKit, and MVVM architecture.  
 
-## 🤝 Connect with Me
+### [Boating Marketplace iOS](https://github.com/ihebmbarki/BoatingApp) *(Freelance)*
+- Designed **user-centered interfaces** in Figma and implemented key marketplace features.  
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iheb-mbarki-2996061a1/)
+### [Insight – Fullstack Medical Web App](https://github.com/ihebmbarki/InsightWebApp)
+- **AI-powered web app** to detect ocular pathologies from images.  
+- Developed Python microservice, REST API, and automated full data pipeline.  
+
+---
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihebmbarki&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/ihebmbarki)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihebmbarki&show_icons=true&hide_title=true&count_private=true&theme=radical)](https://github.com/ihebmbarki)
 
-## Feel free to explore my repositories and reach out ✌️
+---
 
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/iheb-mbarki-2996061a1/)

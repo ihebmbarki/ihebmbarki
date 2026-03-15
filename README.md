@@ -31,8 +31,8 @@ I build **high-performance, user-centered iOS applications**, from **UI/UX desig
 - Manage parking spaces with **location tracking via Google Maps**.  
 - Built with Swift, UIKit, and MVVM architecture.  
 
-### [Boating Marketplace iOS](https://github.com/ihebmbarki/BoatingApp) *(Freelance)*
-- Designed **user-centered interfaces** in Figma and implemented key marketplace features.  
+### [Boating Marketplace iOS](https://github.com/ihebmbarki/BoatingApp)
+- Designed **user-centered interfaces** in Figma and implemented key marketplace features.      
 
 ### [Insight – Fullstack Medical Web App](https://github.com/ihebmbarki/InsightWebApp)
 - **AI-powered web app** to detect ocular pathologies from images.  
